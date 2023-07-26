@@ -1,0 +1,25 @@
+Linux command: 
+
+1) rpm -q : (Package manager to check the package name)
+
+2) netstat -tnlp (Active ports in system)
+
+3) ls -a (to show all files even hidden)
+
+4) df -h (Free disk checkup)
+
+5) ifconfig (IP's of our PC's)
+
+6) vlc ( To open the vlc media player)
+
+7) baobab (To open the Disk Analyzer)
+
+8) useradd (To add the new user)
+
+9) passwd (To change the password of current user)
+ 
+9) systemctl status (To check the software is on or not)
+
+10) ps -aux (To check the active processes )
+
+11) lsblk (To show the partitions)
